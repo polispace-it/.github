@@ -1,1 +1,1 @@
-# Welcome to PoliSpace's organization on Github!
+# Welcome to PoliSpace's Github account!
