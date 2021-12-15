@@ -1,4 +1,4 @@
-# Welcome to PoliSpace's Github account! 🚀
+# Welcome to PoliSpace's GitHub account! 🚀
 
 Polispace is the first space association of Politecnico di Milano.
 
